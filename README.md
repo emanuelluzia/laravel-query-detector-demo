@@ -1,6 +1,6 @@
 # Laravel Query Detector Demo (Docker)
 
-A small API designed to **demonstrate N+1 queries** and how to fix them using **[beyondcode/laravel-query-detector]**.  
+A small API designed to **demonstrate N+1 queries** and how to fix them using **[beyondcode/laravel-query-detector](https://beyondco.de/docs/laravel-query-detector/usage)**.  
 The project includes two endpoints:
 - `GET /api/posts` – intentionally **N+1** (bad on purpose)
 - `GET /api/posts-optimized` – **eager loaded** (fixed)

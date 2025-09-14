@@ -59,12 +59,14 @@ return [
 
 ```
 # RESPONSE JSON (N+1 detected)
-![alt text](image.png)
+<img width="1027" height="587" alt="image" src="https://github.com/user-attachments/assets/becbced8-8b45-4f49-8499-9f9b86929d6d" />
+
 ```
 
 ```
 # LOG SAMPLE
-![alt text](image-1.png)
+<img width="725" height="150" alt="image" src="https://github.com/user-attachments/assets/df45f909-1dcb-4906-a051-df52fcffc457" />
+
 ```
 
 ## How the N+1 is produced
